@@ -62,6 +62,11 @@ weapon > * {
     flex-shrink: 0;
 }
 
+spacing {
+    
+    width: 82px;
+}
+
 name {
     font-size: 40px;
     word-wrap: normal;
