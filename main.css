@@ -1,0 +1,111 @@
+body {
+    margin: 0px;
+}
+
+content {
+     /* background-image: url(./attractive-backdrop-background-concrete-copy-space-decorate-1580813-pxhere.com.jpg);  */
+    display: block;
+    background-color: purple;
+    
+    height: 100%;
+    
+}
+
+header {
+    display: flex;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+header > * {
+    align-self: center;
+    flex-shrink: 0;
+}
+
+
+.name {
+    margin-left: 100px;
+    
+}
+
+.ete {
+    display: inline-block;
+    margin-left: 137px;
+    text-align: center;
+    width: 125px;
+}
+
+.etl {
+    display: inline-block;
+    margin-left: 18px;
+    text-align: center;
+    width: 125px;
+}
+
+.qod {
+    display: inline-block;
+    margin-left: 17px;
+    text-align: center;
+    width: 125px;
+}
+
+weapon {
+    display: flex;
+    margin-bottom: 5px;
+    
+}
+
+weapon > * {
+    align-self: center;
+    flex-shrink: 0;
+}
+
+name {
+    font-size: 40px;
+    word-wrap: normal;
+    width: 350px;
+    margin-left: 25px;
+    
+}
+
+box {
+    border: 2px black solid;
+    margin: .5em;
+    height: 90px;
+    /* padding: 50% ; */
+    width: 120px;
+    font-size: 18px;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+p {
+    margin: 0px;
+
+}
+
+.green {
+    background-color: #00e732;
+}
+
+.yellow {
+    background-color: #eef426;
+}
+
+.red {
+    background-color: #e71818;
+}
+
+extra {
+    font-size: 25px;
+    margin-left: 30px;
+    width: 300px;
+    
+    
+}
+
